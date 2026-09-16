@@ -1,0 +1,7 @@
+{
+  "ports": {
+    "3000": "https://example.com:3000",
+    "8080": "https://example.com:8080",
+    "8443": "https://example.com:8443"
+  }
+}
